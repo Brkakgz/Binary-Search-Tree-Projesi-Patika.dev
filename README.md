@@ -1,6 +1,8 @@
 # Binary-Search-Tree-Projesi-Patika.dev
 Binary Search Tree Projesi
 
+Patika.dev
+
 Proje 3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
@@ -94,3 +96,4 @@ Onuncu aşamada 2 değeri 7 ve 5 değerlerinden küçük 1 değerinden büyük o
                                          /    \
                                         2       4
 																				
+Patika.dev
